@@ -1,6 +1,6 @@
 #' Subset large dataset to user-specified year and month
 #'
-#' @param year
+#' @param year e.g. 2024
 #' @param plants If not animals, select plants=TRUE
 #' @param month Select by number 1 - 12
 #'

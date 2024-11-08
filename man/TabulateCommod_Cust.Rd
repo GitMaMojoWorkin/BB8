@@ -7,7 +7,7 @@
 TabulateCommod_Cust(year)
 }
 \arguments{
-\item{year}{}
+\item{year}{e.g. 2024}
 }
 \value{
 a tibble

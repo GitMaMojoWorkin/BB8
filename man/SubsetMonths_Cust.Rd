@@ -7,6 +7,8 @@
 SubsetMonths_Cust(year, plants = FALSE, month)
 }
 \arguments{
+\item{year}{e.g. 2024}
+
 \item{plants}{If not animals, select plants=TRUE}
 
 \item{month}{Select by number 1 - 12}
