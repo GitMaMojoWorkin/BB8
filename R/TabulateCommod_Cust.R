@@ -1,6 +1,6 @@
 #' Generate a table of volume by type, month, location and origin for user-specifed year
 #'
-#' @param year  e.g. 2024
+#' @param year  Single year,from 2021 onwards
 #'
 #' @return a tibble
 #' @export
