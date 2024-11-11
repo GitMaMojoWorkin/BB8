@@ -16,5 +16,5 @@ a tibble
 Generate a table of volume by type, month, location and origin for user-specifed year
 }
 \examples{
-TabulateCommod_Cust(2024)
+#TabulateCommod_Cust(2024)
 }

@@ -7,7 +7,7 @@
 #' @return a dataframe
 #' @export
 #'
-#' @examples SubsetMonths_Cust(2024, plants=FALSE, month=3)
+#' @examples #SubsetMonths_Cust(2024, plants=FALSE, month=3)
 SubsetMonths_Cust <- function(year, plants=FALSE, month) {
 
   # load and wrangle

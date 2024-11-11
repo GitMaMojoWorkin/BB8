@@ -5,7 +5,7 @@
 #' @return a tibble
 #' @export
 #'
-#' @examples TabulateCommod_Cust(2024)
+#' @examples #TabulateCommod_Cust(2024)
 TabulateCommod_Cust <-  function(year) {
 
   # load and wrangle

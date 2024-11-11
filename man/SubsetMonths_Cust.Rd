@@ -20,5 +20,5 @@ a dataframe
 Subset large dataset to user-specified year and month
 }
 \examples{
-SubsetMonths_Cust(2024, plants=FALSE, month=3)
+#SubsetMonths_Cust(2024, plants=FALSE, month=3)
 }
