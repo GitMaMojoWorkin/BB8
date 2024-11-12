@@ -7,8 +7,8 @@
 #' @return a dataframe
 #' @export
 #'
-#' @examples #SubsetMonths_Cust(2024, plants=FALSE, month=3)
-SubsetMonths_Cust <- function(year, plants=FALSE, month) {
+#' @examples #monthRaw(2024, plants=FALSE, month=3)
+monthRaw <- function(year, plants=FALSE, month) {
 
   # load and wrangle
   load(str_c("/dbfs/mnt/lab/restricted/APHW-Dir/tables/Datasets with risk and commodities/HMRC_Data_",year,"_risk_commodity.RData"), envir = .GlobalEnv)

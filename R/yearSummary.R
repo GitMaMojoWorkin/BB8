@@ -5,8 +5,8 @@
 #' @return a tibble
 #' @export
 #'
-#' @examples #TabulateCommod_Cust(2024)
-TabulateCommod_Cust <-  function(year) {
+#' @examples #yearSummary(2024)
+yearSummary <-  function(year) {
 
   # load and wrangle
   load(str_c("/dbfs/mnt/lab/restricted/APHW-Dir/tables/Datasets with risk and commodities/HMRC_Data_",year,"_risk_commodity.RData"), envir = .GlobalEnv)
